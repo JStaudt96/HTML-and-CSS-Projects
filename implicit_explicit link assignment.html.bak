@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+		<head>
+			<title>Dogs</title>
+			<meta charset = "UTF-8">
+		</head>
+	<body>
+	<p> This page is all about dogs </p>
+	<main> These are some popular dog breeds: </main>
+	<h1> Pit Bulls </h1>
+	<a href= "https://images.huffingtonpost.com/2015-10-29-1446118324-7051802-DSC_0401.jpg> Look at this Pit Bull </a>
+	<h3> German Shepards </h3>
+	<a href="German Shepherd.jpg"> Look at this picture of a German Shepherd</a>
+	<h6> Siberian Husky's </h6>
+	</body>
+	<footer> Jesse Staudt </footer>
+	
+</html>

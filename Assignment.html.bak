@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+		<head>
+			<title>Dogs</title>
+			<meta charset = "UTF-8">
+		</head>
+	<body>
+	<p> This page is all about dogs </p>
+	<main> These are some popular dog breeds: </main>
+	<h1> Pit Bulls </h1>
+	<img src= "https://www.cesarsway.com/wp-content/uploads/2015/06/AdobeStock_204540550.jpeg">
+	<h3> German Shepards </h3>
+	<a href= "https://images.saymedia-content.com/.image/t_share/MTc2MjY5MTY0Mzg0NjkxMzcz/5-questions-you-should-ask-german-shepherd-breeders.jpg"> Look at this pictre of a German Shepherd </a>
+	<h6> Siberian Husky's </h6>
+	</body>
+	<footer> Jesse Staudt </footer>
+	
+</html>

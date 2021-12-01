@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+		<head>
+			<title>Dogs</title>
+			<meta charset = "UTF-8">
+		</head>
+	<body>
+		<nav>
+			<a href="assignment.html"> Home</a>
+			<a href="German Shepherd.jpg"> Dog Picture</a>
+			<a href="https://www.youtube.com/watch?v=MxaJb-fYR4M"> Dog Video </a>
+		</nav>
+	<p> This page is all about German Shepherds </p>
+	<h3> German Shepards </h3>
+	<a href="German Shepherd.jpg"> This is a picture of a German Shepherd</a>
+	<footer> Jesse Staudt </footer>
+	
+</html>
