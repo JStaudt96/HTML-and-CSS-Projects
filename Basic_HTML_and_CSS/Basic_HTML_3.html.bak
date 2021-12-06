@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML and CSS assignment</title>
+	</head>
+	<body>
+	<h1>Heading</h1>
+	<style>
+	<p> This line is written using CSS</p>
+	<link rel="stylesheet" type="text/CSS" href="Basic_CSS_1.css">
+	

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<ul>
+			<li> chicken </li>
+			<li> milk </li>
+			<li> eggs </li>
+		</ul>
+		<ol>
+			<li>Cow</li>
+			<li> Pig</li>
+			<li> Sheep </li>
+		</ol>
+	</body>
+</html>
