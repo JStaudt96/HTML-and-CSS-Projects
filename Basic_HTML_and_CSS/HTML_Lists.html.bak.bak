@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="CSS_List_1.css">
+</head>
+	<body>
+	
+		<ul>
+			<li> chicken </li>
+			<li> mlik </li>
+			<li> eggs </li>
+		</ul>
+		<ol>
+			<li>Cow</li>
+			<li> Pig</li>
+			<li> Sheep </li>
+		</ol>
+	</body>
+</html>
