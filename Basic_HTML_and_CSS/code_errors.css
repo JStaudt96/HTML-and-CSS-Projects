@@ -1,0 +1,26 @@
+/*=====Bold <p>====*/
+.bold  {
+    font: bold 20px/30px sans-serif;
+}
+/*=====End bold <p>===*/
+
+/*=====Photo Border===*/
+.photo {
+    position:relative;
+    border: 2px dashed #ff0000;
+    width: 600px;
+    height: 300px;
+}
+/*===End Photo Border===*/
+
+/*===Center text===*/
+h3 {
+    text-align: center;
+}
+/*===End Center text===*/
+
+/*=== Background Color===*/
+body{
+    background-color: lightblue;
+}
+/*===End Background Color===*/
