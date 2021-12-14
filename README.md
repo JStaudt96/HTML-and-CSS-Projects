@@ -2,7 +2,7 @@
  This contains my HTML and CSS projects
 
 Projects:
-[Space Station site] (index.html)
+[Space Station site](index.html)
 Movie Theatre site (
 
 Space Station Site
