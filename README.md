@@ -2,8 +2,8 @@
  This contains my HTML and CSS projects
 
 Projects:
-Space Station Site
-Movie Theatre site
+Space Station site (index.html)
+Movie Theatre site (
 
 Space Station Site
 This project is for a space travel company. It was styled using CSS and contains a navbar, image containers and a form.
